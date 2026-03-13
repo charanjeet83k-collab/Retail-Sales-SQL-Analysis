@@ -51,7 +51,7 @@ This table helps analyze customer segments and demographic patterns.
 
 The following Entity Relationship Diagram shows how the tables in the retail database are connected.
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](Retail_ER_Diagram.png)
 
 
 **Transactions Table**
