@@ -47,13 +47,6 @@ Contains customer demographic information including:
 
 This table helps analyze customer segments and demographic patterns.
 
-## 🗺 Database Schema (ER Diagram)
-
-The following Entity Relationship Diagram shows how the tables in the retail database are connected.
-
-![ER Diagram](Retail_ER_Diagram.png)
-
-
 **Transactions Table**
 Contains detailed records of customer purchases including:
 
@@ -76,6 +69,12 @@ Contains product hierarchy information including:
 - Product Sub Category
 
 This table allows analysis of sales performance across different product categories and sub-categories.
+
+## 🗺 Database Schema (ER Diagram)
+
+The following Entity Relationship Diagram shows how the tables in the retail database are connected.
+
+![ER Diagram](Retail_ER_Diagram.png)
 
 ## 🔎 Data Preparation
 
