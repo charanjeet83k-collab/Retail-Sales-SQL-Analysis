@@ -49,7 +49,7 @@ This table helps analyze customer segments and demographic patterns.
 
 ## 🗺 Database Schema (ER Diagram)
 
-The following Entity Relationship Diagram shows the relationship between the tables used in the analysis.
+The following Entity Relationship Diagram shows how the tables in the retail database are connected.
 
 ![ER Diagram](ER_Diagram.png)
 
